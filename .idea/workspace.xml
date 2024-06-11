@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="776e1b3e-c08f-4f32-8f57-569af1bc3c65" name="Changes" comment="Homework 7">
+    <list default="true" id="776e1b3e-c08f-4f32-8f57-569af1bc3c65" name="Changes" comment="Homework 8">
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Урок 8. Практическое задание/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Урок 8. Практическое задание/task_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Урок 8. Практическое задание/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Урок 8. Практическое задание/task_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Урок 8. Практическое задание/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Урок 8. Практическое задание/task_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Урок 8. Практическое задание/task_4_5_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Урок 8. Практическое задание/task_4_5_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Урок 8. Практическое задание/task_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Урок 8. Практическое задание/task_7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +47,7 @@
       <recent name="D:\workspace\gb_python" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.task_1">
     <configuration name="task_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="gb_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -247,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682193859653</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Homework 8">
+      <created>1682267226078</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1682267226078</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,6 +275,7 @@
     <MESSAGE value="Homework 6" />
     <MESSAGE value="Homework 6 update" />
     <MESSAGE value="Homework 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 7" />
+    <MESSAGE value="Homework 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 8" />
   </component>
 </project>
